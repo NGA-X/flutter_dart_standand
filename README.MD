@@ -1,3 +1,6 @@
+# 项目框架
+* https://github.com/xuexiangjys/flutter_template
+
 # Flutter Go 代码开发规范 0.1.0 版
 
 ## 代码风格
